@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,KACE,sBAAuB,CACvB,aACF","file":"main.51496b09.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.row {\n  justify-content: center;\n  margin: 15px 0;\n}"]}
