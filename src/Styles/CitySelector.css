@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Zilla+Slab&display=swap");
+.CitySelector {
+  font-family: "Zilla Slab", serif;
+  text-align: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.CitySelector Button {
+  margin-top: 15px;
+}
+/*# sourceMappingURL=CitySelector.css.map */

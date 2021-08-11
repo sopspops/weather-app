@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,OAAO,CAAC,uEAAI;ADEZ,AAAA,YAAY,CAAC;EACT,WAAW,ECDH,YAAY,EAAE,KAAK;CDE9B",
+    "sources": [
+        "WeatherCard.scss",
+        "Variables.scss"
+    ],
+    "names": [],
+    "file": "WeatherCard.css"
+}

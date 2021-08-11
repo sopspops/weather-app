@@ -1,11 +1,12 @@
 import { useState } from 'react'
 import { Row, Col, FormControl, Button } from 'react-bootstrap'
+import '../Styles/CitySelector.css'
 
 const CitySelector = ({onSearch}) => {
     const [city, setCity] = useState('')
 
     return (
-        <div>
+        <div class='CitySelector'>
             <Row>
                 <Col>
                     <h1>Search Your City</h1>

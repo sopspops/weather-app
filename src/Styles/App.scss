@@ -1,0 +1,17 @@
+@import './Variables.scss';
+
+.App {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: $main-font;
+  margin-top: 5em;
+  
+  .row {
+    text-align: center;
+    justify-content: center;
+  }
+}
+
+
+

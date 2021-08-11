@@ -1,9 +1,10 @@
 import { Card } from 'react-bootstrap'
+import '../Styles/WeatherCard.css'
 
 const WeatherCard = ({ dt, temp_min, temp_max, main, icon }) => {
     const date = new Date(dt);
     return (
-        <Card>
+        <Card class="WeatherCard">
             <Card.Img variant="top" src={`http://openweathermap.org/img/wn/${icon}@2x.png`} />
             <Card.Body>
                 <Card.Title>{main}</Card.Title>
